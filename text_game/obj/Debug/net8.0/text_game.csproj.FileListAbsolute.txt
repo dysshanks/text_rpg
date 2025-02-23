@@ -1,0 +1,14 @@
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\bin\Debug\net8.0\text_game.exe
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\bin\Debug\net8.0\text_game.deps.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\bin\Debug\net8.0\text_game.runtimeconfig.json
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\bin\Debug\net8.0\text_game.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\bin\Debug\net8.0\text_game.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\text_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\text_game.AssemblyInfoInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\text_game.AssemblyInfo.cs
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\text_game.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\text_game.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\refint\text_game.dll
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\text_game.pdb
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\text_game.genruntimeconfig.cache
+C:\Users\ryanv\Documents\projecten\C#-projecten\school\text_game\text_game\obj\Debug\net8.0\ref\text_game.dll

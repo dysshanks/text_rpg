@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "text_game", "text_game\text_game.csproj", "{1C1C4483-28D7-437D-A059-E219B64752BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C1C4483-28D7-437D-A059-E219B64752BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1C4483-28D7-437D-A059-E219B64752BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1C4483-28D7-437D-A059-E219B64752BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1C4483-28D7-437D-A059-E219B64752BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
