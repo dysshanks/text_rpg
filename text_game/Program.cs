@@ -9,6 +9,10 @@
             
             player player = new player();
             player.name = name;
+            player.lvl = 1;
+            player.hp = 100;
+            player.mp = 30;
+            player.def = 7;
             
             Console.WriteLine($"hello {player.name}");
         }

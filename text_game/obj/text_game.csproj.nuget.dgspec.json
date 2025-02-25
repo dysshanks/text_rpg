@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\text_game\\text_game\\text_game.csproj": {}
+    "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\tbarpg\\text_rpg\\text_game\\text_game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\text_game\\text_game\\text_game.csproj": {
+    "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\tbarpg\\text_rpg\\text_game\\text_game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\text_game\\text_game\\text_game.csproj",
+        "projectUniqueName": "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\tbarpg\\text_rpg\\text_game\\text_game.csproj",
         "projectName": "text_game",
-        "projectPath": "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\text_game\\text_game\\text_game.csproj",
+        "projectPath": "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\tbarpg\\text_rpg\\text_game\\text_game.csproj",
         "packagesPath": "C:\\Users\\ryanv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\text_game\\text_game\\obj\\",
+        "outputPath": "C:\\Users\\ryanv\\Documents\\projecten\\C#-projecten\\school\\tbarpg\\text_rpg\\text_game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
